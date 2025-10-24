@@ -1,0 +1,5 @@
+What is artificial intelligence?
+Explain the concept of machine learning.
+Who is Alan Turing?
+What is the difference between supervised and unsupervised learning?
+Define neural networks in simple words.
