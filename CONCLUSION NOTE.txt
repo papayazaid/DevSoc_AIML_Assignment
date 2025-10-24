@@ -1,0 +1,16 @@
+What I learned and how I learned it
+
+In this assignment, I learned how to work with APIs and how to make them interact with AI models.
+I understood what an API key is, how to use it safely, and how to send requests to an LLM API to get responses.
+I also learned how to handle text files in Python — reading questions from a file, sending them to the model, and saving all the answers in a JSON file.
+This helped me understand how AI can be connected to normal programs and how data is transferred through APIs.
+
+In the second part, I learned about linear regression and how it can be used to find relationships between two sets of numbers.
+I created a simple dataset of DevSoc coordinators, using their event preparation hours and their performance scores.
+I used Python and Google Colab to calculate the line of best fit and plot a graph that shows how more preparation leads to higher scores.
+It made the math behind machine learning feel more real and easier to understand.
+
+Overall, I learned how coding, data, and AI can come together to build small but meaningful projects.
+This assignment helped me connect theory with practice and gave me more confidence in using Python for AI and ML tasks.
+
+YEP, I LOVED WORKING ON THIS PROJECT AND I HOPE I GET INDUCTED INTO THIS VERTICAL. THANK YOU.
